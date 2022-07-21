@@ -1,6 +1,7 @@
 - Hi, I’m @virtualtoja
-- I’m interested in C# and OS Development
-- I’m currently learning C++
+- Good at C++, C and C#
+- Currently learning Assembly
+- Interested in embedded and OS development
 
 <!---
 virtualtoja/virtualtoja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
